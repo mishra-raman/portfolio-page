@@ -1,6 +1,6 @@
-# Raman Mishra's Portfolio
+# My Portfolio
 
-This repository contains the source code for Raman Mishra's personal portfolio website. The website showcases Raman's projects, publications, skills, and professional recommendations. It also includes a contact section for reaching out directly via email.
+Hello Welcome to my portfolio page repository, which contains the source code for my personal portfolio website. The website showcases my projects, publications, skills, and professional recommendations. It also includes a contact section for reaching out directly via email.
 
 ## Features
 
@@ -13,7 +13,7 @@ This repository contains the source code for Raman Mishra's personal portfolio w
 - **Projects Section**: Showcases various projects categorized by technology (e.g., Machine Learning, Cloud, Data Engineering).
 - **Publications Section**: Lists significant publications with links to read them online.
 - **Recommendations Section**: Displays professional recommendations through a carousel.
-- **Contact Section**: A form to contact Raman directly, along with social links to LinkedIn, GitHub, and email.
+- **Contact Section**: A form to contact me directly, along with social links to LinkedIn, GitHub, and email.
 
 ## Technologies Used
 
@@ -43,10 +43,10 @@ Detailed view of projects, each represented as a card with a flip animation to r
 Links to published papers, each with a dedicated card containing a brief overview and a link to the publication.
 
 ### Recommendations
-A carousel that cycles through various professional recommendations Raman has received.
+A carousel that cycles through various professional recommendations I have received.
 
 ### Contact
-A form that allows visitors to send emails directly to Raman, along with links to his professional social media profiles.
+A form that allows visitors to send emails directly to me, along with links to his professional social media profiles.
 
 ## CSS Structure
 
@@ -64,8 +64,8 @@ The website is fully responsive, with specific styles for mobile devices under 7
 ## Credits
 
 - **Bootstrap**: Used for responsive grid layout and components.
-- **Images**: All images are either owned by Raman Mishra or are licensed free-to-use.
+- **Images**: All images are either owned by me or are licensed free-to-use.
 
 ## Contact
 
-For any additional questions or comments, contact Raman Mishra at [mishraraman94us@gmail.com](mailto:mishraraman94us@gmail.com).
+For any additional questions or comments, contact me at [mishraraman94us@gmail.com](mailto:mishraraman94us@gmail.com).
